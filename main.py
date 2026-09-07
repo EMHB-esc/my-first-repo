@@ -1,3 +1,7 @@
+"""
+I added a docstring here to explain that this script is used for greeting and doing basic math.
+"""
+
 def greet(name):
     print(f"Hello, {name}!")
 
