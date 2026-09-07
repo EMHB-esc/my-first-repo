@@ -13,5 +13,11 @@ b = 100
 def add(a, b):
     return a + b
 
-result = add(a, b)
-print(result)
+def subtract(a, b):
+    return a - b
+
+add_result = add(a, b)
+subtract_result = subtract(a, b)
+
+print(add_result)
+print(subtract_result)
